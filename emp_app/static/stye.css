@@ -1,0 +1,14 @@
+#bg{
+    /* background-size: 1500px 800px; */
+    background-size: 1400px 800px;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+/* .logo {
+    background-size: cover; /* This will make the background image cover the entire container */
+    /* background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed; */
+/* } */ 
