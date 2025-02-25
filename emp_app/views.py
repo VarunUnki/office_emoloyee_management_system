@@ -68,7 +68,7 @@ def add_emp(request):
         
         return HttpResponse('Employee Added Successfully, you can see it in view all Employee Details')
     elif request.method == 'GET':
-        # Retrieve all departments and roles
+        
         departments = Department.objects.all()
         roles = Role.objects.all()
         
